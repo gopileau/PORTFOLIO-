@@ -1,5 +1,14 @@
 # mon-portfolio
 
+## Prérequis
+- Node.js et npm doivent être installés sur votre machine.
+
+## Installation
+1. Clonez ce dépôt sur votre machine.
+```bash
+git clone https://github.com/gopileau/PORTFOLIO-.git
+cd PORTFOLIO-
+
 ## Project setup
 ```
 yarn install
