@@ -99,7 +99,7 @@
         <ul>
           <li>
             <strong>date de naisssance</strong>
-            19/11/1999
+            xx/1xx/19xx
           </li>
           <li>
             <strong>Portable</strong>
@@ -107,7 +107,7 @@
           </li>
           <li>
             <strong>Email</strong>
-            vanessagonza@gmail
+            vanegonza@gmail
           </li>
           <li>
             <strong>website</strong>
@@ -119,7 +119,7 @@
           </li>
           <li>
             <strong>adress</strong>
-            94 rue courcelles,france 
+            xx xx xxxxxxxx,france 
           </li>
         </ul>
         </div>
