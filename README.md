@@ -31,6 +31,4 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-voici a quoi resemble : 
-port.png 
+ 
