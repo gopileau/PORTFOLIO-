@@ -1,4 +1,5 @@
 # mon-portfolio
+le projet principal se trouve dans le MainCard.vue 
 
 ## Prérequis
 - Node.js et npm doivent être installés sur votre machine.
